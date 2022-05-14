@@ -1,0 +1,87 @@
+.myheader {
+    background-image: url("../images/banner.jpg");
+    background-size: auto;
+    background-position: center 11px;
+    background-repeat: no-repeat;
+    background-color: white;
+    /*background-color: rgb(175, 53, 53);*/
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.myheader:hover {
+    background-color: rgb(253, 211, 211);
+}
+
+.header2 {
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    max-height: 650px;
+}
+
+.header2:hover {
+    background-color: rgb(253, 211, 211);
+}
+
+.main {
+    background-color: #b1a487;
+    border: 0px solid;
+}
+
+.main:hover {
+    background-color: #c7bdae;
+    border: 0px solid;
+}
+
+.display-6 {
+    color: maroon;
+}
+
+.documentLinks {
+    background-color: maroon;
+    border-width: 0px;
+}
+
+.documentLinks:hover {
+    background-color: rgb(155, 1, 1);
+    border-width: 0px;
+}
+
+.documentLinks:active {
+    background-color: rgb(155, 1, 1);
+    border-width: 0px;
+}
+
+.documentLinks:focus {
+    background-color: rgb(110, 1, 1);
+    border-width: 0px;
+    outline: none;
+    box-shadow: none;
+}
+
+.nhslogo {
+    max-width:  500px;
+    max-height: 300px;
+}
+
+.nhslogocontainer {
+    max-width:  500px;
+    max-height: 300px;
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.slides {
+    height: 500px;
+    width: 600px;
+}
+
+h1 {
+    color: maroon;
+}
